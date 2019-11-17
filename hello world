@@ -1,4 +1,12 @@
 hello everyone how is life so could we use this software for writing code like a python IDE 
 this is my first branch lets see if everything is ok 
 i dont think that it is a good idea
+<<<<<<< HEAD
 how is everything
+=======
+why everything is deleted
+hello man new line
+anotherline is c program
+so nothing can be done 
+or can we do that stuff in another place 
+>>>>>>> cprogramm
